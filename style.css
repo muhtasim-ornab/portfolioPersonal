@@ -54,7 +54,7 @@
     width: 150px;
     border: 1px solid white;
     border-radius: 100px;
-    background: url("images/myDepo.jpeg");
+    background: url("/images/myDepo.jpeg");
     background-position: center;
     background-size: cover;
 }
