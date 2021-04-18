@@ -380,11 +380,11 @@
 #skill-bar-02 { animation-name: example6; width: 30%;}
 @keyframes example6 {0% {width: 0%} 100% {width: 30%}}
 
-#skill-bar-03 { animation-name: example7; width: 40%;}
-@keyframes example7 {0% {width: 0%} 100% {width: 40%}}
+#skill-bar-03 { animation-name: example7; width: 60%;}
+@keyframes example7 {0% {width: 0%} 100% {width: 60%}}
 
-#skill-bar-04 { animation-name: example8; width: 45%;}
-@keyframes example8 {0% {width: 0%} 100% {width: 45%}}
+#skill-bar-04 { animation-name: example8; width: 87%;}
+@keyframes example8 {0% {width: 0%} 100% {width: 87%}}
 
 
 /*---------------  Education ---------------*/
